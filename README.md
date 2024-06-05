@@ -359,5 +359,7 @@ GROUP BY
 
 
 **3. teste Indicador 3**
+![image](https://github.com/einstein808/FundamentosSI/assets/79322072/6022777e-18f5-49d0-9391-105c1f6185b2)
+
 
 
