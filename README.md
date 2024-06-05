@@ -351,3 +351,5 @@ GROUP BY
 ![image](https://github.com/einstein808/FundamentosSI/assets/79322072/5c791dad-977c-4e29-8c79-3c4c656f33f0)
 
 
+1. Teste indicador 1
+
